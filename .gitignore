@@ -1,0 +1,12 @@
+# Python virtual environment folder
+venv/
+
+# Secret tokens and API keys
+.env
+
+# User data and configuration files
+*.json
+
+# Python cache files
+__pycache__/
+*.pyc
